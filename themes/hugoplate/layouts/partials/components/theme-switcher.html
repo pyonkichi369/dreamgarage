@@ -36,16 +36,24 @@
   <!-- theme switcher -->
   {{ if site.Params.theme_switcher }}
   <script>
-    var darkMode = {{if eq site.Params.theme_default "dark"}}true{{else}}false{{end}};
+    var date = new Date();
+    var hours = date.getHours();
+
+    // var darkMode = {{if eq site.Params.theme_default "dark"}}true{{else}}false{{end}};
+
+    var darkMode = true;
+    if (0 <= hours < 18) {darkMode = false}
 
     {{ if eq site.Params.theme_default "system" }}
     if (window.matchMedia("(prefers-color-scheme: dark)").matches){darkMode = true}
     {{ end }}
 
-    if (localStorage.getItem("theme") === "dark"){darkMode = true}
-    else if (localStorage.getItem("theme") === "light"){darkMode = false}
+    // if (localStorage.getItem("theme") === "dark"){darkMode = true}
+    // else if (localStorage.getItem("theme") === "light"){darkMode = false}
     if (darkMode){document.documentElement.classList.toggle("dark")}
     var themeSwitch = document.querySelectorAll("[data-theme-switcher]");
+
+    console.log(darkMode);
 
     document.addEventListener("DOMContentLoaded", () => {
       [].forEach.call(themeSwitch, function (ts) {

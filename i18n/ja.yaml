@@ -1,32 +1,32 @@
 - id: home
-  translation: Home
+  translation: ホーム
 
 - id: read_more
-  translation: Read More
+  translation: もっと読む
 
 - id: send
-  translation: Send
+  translation: 送信する
 
 - id: related_posts
-  translation: Related Posts
+  translation: 関連する記事
 
 - id: categories
-  translation: Categories
+  translation: カテゴリー
 
 - id: tags
-  translation: Tags
+  translation: タグ
 
 - id: toc
-  translation: Table of Contents
+  translation: 目次
 
 - id: share
-  translation: Share
+  translation: 共有する
 
 - id: search_input_placeholder
-  translation: Search Post ...
+  translation: 検索 ...
 
 - id: no_results_for
-  translation: No results for
+  translation: 結果はありません
 
 - id: empty_search_results_placeholder
-  translation: Type something to search..
+  translation: 検索したい語句を入力してください ...

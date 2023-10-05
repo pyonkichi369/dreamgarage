@@ -6,7 +6,7 @@
         <a
           class="navbar-brand inline-block"
           href="{{ site.BaseURL | relLangURL }}">
-          {{ partial "logo" }}
+          {{ site.Title }}
         </a>
       </div>
       <div class="lg:col-6 mb-8 text-center lg:mb-0">
@@ -47,11 +47,11 @@
       </div>
     </div>
   </div>
-  <div class="border-border dark:border-darkmode-border border-t py-7">
-    <div class="text-light dark:text-darkmode-light container text-center">
-      <p>
-        {{ site.Params.copyright | markdownify }}
-      </p>
-    </div>
-  </div>
+<!--  <div class="border-border dark:border-darkmode-border border-t py-7">-->
+<!--    <div class="text-light dark:text-darkmode-light container text-center">-->
+<!--      <p>-->
+<!--        {{ site.Params.copyright | markdownify }}-->
+<!--      </p>-->
+<!--    </div>-->
+<!--  </div>-->
 </footer>

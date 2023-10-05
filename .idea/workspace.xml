@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f847f88-8117-4be8-9bde-a68ff110e85b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/_default/menus.ja.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/authors/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/authors/john-doe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/authors/sam-wilson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/authors/william-jacob.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/post-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/post-2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/post-3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/blog/post-4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/contact/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/pages/elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/pages/privacy-policy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/sections/call-to-action.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/japanese/sections/testimonial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/ja.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/maps/google-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/swiper/swiper-bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/swiper/swiper-bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/components.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/module-overrides.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/avatar-sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/call-to-action.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/gallery/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/gallery/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/gallery/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/gallery/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/gallery/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/gallery/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/image-placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/logo-darkmode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/no-search-found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/service-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/service-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/images/service-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/assets/scss/custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/config/_default/languages.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/config/_default/menus.en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/config/_default/module.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/config/_default/params.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/about/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/authors/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/authors/john-doe.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/authors/sam-wilson.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/authors/william-jacob.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/blog/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/blog/post-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/blog/post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/blog/post-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/blog/post-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/contact/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/pages/elements.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/pages/privacy-policy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/sections/call-to-action.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/english/sections/testimonial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/data/social.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/data/theme.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/hugo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/i18n/en.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/taxonomy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/terms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/about/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/authors/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/authors/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/blog/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/blog/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/contact/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/call-to-action.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/author-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/blog-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/breadcrumb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/language-switcher.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/theme-switcher.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/components/tw-size-indicator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/essentials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/essentials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/essentials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/essentials/script.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/essentials/style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/page-header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/widgets/categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/widgets/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/widgets/widget-wrapper.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1696125147" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/themes/hugoplate" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="2W8oXm5uVWknvwq9XrnLrzDiEud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config/_default" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/_default" />
+      <recent name="$PROJECT_DIR$/i18n" />
+      <recent name="$PROJECT_DIR$/content/japanese" />
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/content" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f847f88-8117-4be8-9bde-a68ff110e85b" name="Default Changelist" comment="" />
+      <created>1696123613959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696123613959</updated>
+    </task>
+    <servers />
+  </component>
+</project>

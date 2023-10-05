@@ -2,19 +2,19 @@
 
 # main menu
 [[main]]
-name = "ホーム"
+name = "Home"
 url = "/"
 weight = 1
 
 [[main]]
-name = "私たちについて"
+name = "About"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "サービスについて"
-url = "service/"
 weight = 3
+name = "Service"
+hasChildren = true
 
 [[main]]
 weight = 4
@@ -45,7 +45,6 @@ url = "categories/"
 parent = "Pages"
 name = "404 Page"
 url = "404/"
-
 
 # footer menu
 [[footer]]

@@ -44,13 +44,13 @@ link = "contact"
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
-show_image = true
-show_description = true
-show_tags = true
-show_categories = true
+show_image = false
+show_description = false
+show_tags = false
+show_categories = false
 
 
 # seo meta data for OpenGraph / Twitter Card
